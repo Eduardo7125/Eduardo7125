@@ -1,23 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Eduardo Cristea 👋
 
-<!--
-**Eduardo7125/Eduardo7125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I'm currently working on personal projects and learning more about **Cloud, Cybersecurity, and Big Data**.
+- 🌱 I'm currently learning **Angular**, **Flutter**, **React Native**, and diving deeper into **Rust**, **C#**, and **.NET**.
+- 💬 Ask me about **Java**, **Rust**, **Flutter**, **React**, or **.NET**.
+- 📫 How to reach me: [eduardocristea@example.com](mailto:eduardocristea@example.com)
+- ⚡ Fun fact: I love solving complex problems with clean code(I really enjoy leetcode here's my account: [Leet Code Account](https://leetcode.com/u/Wd10o2cSWK/) ).
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: **Java**, **TypeScript**, **JavaScript**, **Dart**, **PL/SQL**, **TransactSQL**, **Rust**, **C#**
+- **Frameworks**: **React**, **React Native**, **Flutter**, **.NET**, Express.js
+- **Tools**: **GitHub**, **Jira**, **Docker**, **Firebase**, **Tailwind CSS**
+- **Platforms**: **Cloud**, **Linux**, **Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduardo7125&show_icons=true)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo7125)
-<br/>
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo7125&layout=compact)
-<br/>
-![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=Eduardo7125.visitor-badge)
+## GitHub Stats
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardocristea&show_icons=true&count_private=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocristea&layout=compact)
+
+## Reach Me On
+- [LinkedIn](https://www.linkedin.com/in/eduardocristea/)
+- [Email](mailto:eduardocristea55@gmail.com)
