@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on personal projects and learning more about **Cloud, Cybersecurity, and Big Data**.
 - 🌱 I'm currently learning **Angular**, **Flutter**, **React Native**, and diving deeper into **Rust**, **C#**, and **.NET**.
 - 💬 Ask me about **Java**, **Rust**, **Flutter**, **React**, or **.NET**.
-- 📫 How to reach me: [eduardocristea@example.com](mailto:eduardocristea@example.com)
+- 📫 How to reach me: [eduardocristea@example.com](mailto:eduardocristea55@gmail.com)
 - ⚡ Fun fact: I love solving complex problems with clean code(I really enjoy leetcode here's my account: [Leet Code Account](https://leetcode.com/u/Wd10o2cSWK/) ).
 
 ## Skills
