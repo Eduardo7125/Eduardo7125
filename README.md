@@ -14,10 +14,10 @@
 - **Platforms**: **Cloud**, **Linux**, **Web Development**
 
 ## GitHub Stats
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardocristea&show_icons=true&count_private=true)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo7125&show_icons=true&count_private=true)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocristea&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo7125&layout=compact)
 
 ## Reach Me On
 - [LinkedIn](https://www.linkedin.com/in/eduardocristea/)
