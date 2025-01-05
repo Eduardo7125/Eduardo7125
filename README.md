@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduardo7125&show_icons=true)
+<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo7125)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo7125&layout=compact)
 ![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=Eduardo7125.visitor-badge)
-![Gráfico de actividad](https://activity-graph.herokuapp.com/graph?username=Eduardo7125)
-![Contribuidores](https://contrib.rocks/image?repo=Eduardo7125/repo-name)
