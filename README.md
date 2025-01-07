@@ -20,5 +20,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo7125&layout=compact)
 
 ## Reach Me On
-- [LinkedIn](https://www.linkedin.com/in/eduardocristea/)
+- [LinkedIn](https://www.linkedin.com/in/eduardo-petrica-cristea-384b28291/)
 - [Email](mailto:eduardocristea55@gmail.com)
