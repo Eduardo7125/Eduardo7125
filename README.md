@@ -11,7 +11,7 @@
 - **Languages**: **Java**, **TypeScript**, **JavaScript**, **Dart**, **PL/SQL**, **TransactSQL**, **Rust**, **C#**
 - **Frameworks**: **React**, **React Native**, **Flutter**, **.NET**, Express.js
 - **Tools**: **GitHub**, **Jira**, **Docker**, **Firebase**, **Tailwind CSS**
-- **Platforms**: **Cloud**, **Linux**, **Web Development**
+- **Platforms**: **Unity**
 
 ## GitHub Stats
 ![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo7125&show_icons=true&count_private=true)
