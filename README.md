@@ -1,4 +1,5 @@
-# Hi there, I'm Eduardo Cristea 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Eduardo7125&label=Profile%20views&color=0e75b6&style=flat" alt="Eduardo7125" /> </p>
+<h2 align="center">Eduardo Cristea | Software Developer | Back-end Developer</h2>
 
 ## About Me
 - 🔭 I'm currently working on personal projects and learning more about **Cloud, Cybersecurity, and Big Data**.
