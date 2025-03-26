@@ -21,7 +21,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo7125&layout=compact)
 
 ## Reach Me On
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-petrica-cristea-384b28291/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="eduardo-cristea-linkedin" height="30" width="40" />
   </a>
